@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerraCreator_Re", "TerraCreator_Re\TerraCreator_Re.csproj", "{A280C619-7E34-445C-898C-59DB78390958}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A280C619-7E34-445C-898C-59DB78390958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A280C619-7E34-445C-898C-59DB78390958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A280C619-7E34-445C-898C-59DB78390958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A280C619-7E34-445C-898C-59DB78390958}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31CC9EAF-C687-441F-B36D-F858B8DE465F}
+	EndGlobalSection
+EndGlobal
