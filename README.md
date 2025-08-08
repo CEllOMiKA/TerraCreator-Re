@@ -12,6 +12,10 @@
 
 基于.NET8.0(与tModLoader一致)
 
+旧项目地址:
+
+https://github.com/CEllOMiKA/TerraCreator-Origin
+
 ### 系统要求:
 
 Windows7 SP1及以上
